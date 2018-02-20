@@ -5,7 +5,6 @@
 >NIM	: 1301164608
 >KELAS 	: IF-40-08
 
----
 
 ** THIS IS ME **
 ```
@@ -16,5 +15,3 @@ Motivasi saya ingin bergabung di Lab Computing karena saya merasa tertarik denga
 Kontribusi saya sendiri di Lab Computing ini yaitu ingin menjadi anggota Lab Computing yang bisa membawa nama baik Lab ini di luar kampus, sehingga harus lebih belajar banyak dan berusaha semaksimal mungkin di Lab ini. Saya juga ingin lab ini menjadi Lab terbaik di antara lab-lab yang ada di IF khususnya, sehingga peminat mahasiswa If khususnya semakin banyak untuk mau bergabung di Lab Computing.
 
 ```
-
----
